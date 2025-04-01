@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-BE" xml:lang="en-BE"><head><meta name="viewport" content="width=device-width, user-scalable=yes"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2019 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<title>404 | HANSA-FLEX</title>
+<meta name="generator" content="TYPO3 CMS">
+
+
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="/typo3conf/ext/hf_screen/Resources/Public/Css/IE8.min.css" media="screen"><![endif]-->
+
+
+
+
+
+
+<meta name="date" content="2016-02-28T02:17:02+00:00">
+<meta name="distribution" content="Global">
+<meta name="google-site-verification" content="HEL9m4965iE20vqaEkDzLIo8wBXrk7-ohkXl30iyy5Q">
+<meta name="pubdate" content="2020-11-03">
+<meta name="publisher" content="HANSA-FLEX Hydraulics N.V./S.A.">
+<meta name="robots" content="noindex,follow">
+<meta name="DCTERMS.date" content="2016-02-28T02:17:02+00:00">
+<meta name="DCTERMS.publisher" content="HANSA-FLEX Hydraulics N.V./S.A.">
+<meta name="DCTERMS.title" content="404 | HANSA-FLEX">
+<meta name="geo.region" content="BE">
+<meta property="og:site_name" content="HANSA-FLEX">
+<meta property="og:title" content="404 | HANSA-FLEX">
+<meta property="og:type" content="article">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@HANSAFLEX">
+<meta name="twitter:title" content="404 | HANSA-FLEX">
+<link rel="alternate" href="https://www.hansa-flex.be/404.html" hreflang="x-default">
+<link rel="alternate" href="https://www.hansa-flex.be/404.html" hreflang="de">
+<link rel="canonical" href="https://www.hansa-flex.com/">
+<link rel="start" href="https://www.hansa-flex.be/">
+
+<script type="text/javascript">
+		function initTagManager() {
+			if (document.cookie.indexOf("analytics-active=") === -1) {
+				return;
+			}
+			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NVWN9NN');
+		}
+		initTagManager();
+	</script>
+<script type="text/javascript">
+		
+		function initFbTeaser() {
+
+			if (document.cookie.indexOf("facebook-active=") === -1) {
+				return;
+			}
+
+			if(typeof HansaFlex.Teaser !== 'undefined'){
+				HansaFlex.Teaser.init()
+			}
+
+			if(location.hostname === "www.hansa-flex.at")
+			{
+				!function(f,b,e,v,n,t,s)
+				{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+				if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+				n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t,s)}(window, document,'script',
+				'https://connect.facebook.net/en_US/fbevents.js');
+				fbq('init', '300199595015305');
+				fbq('track', 'PageView');
+			}
+		}
+
+		document.addEventListener('DOMContentLoaded', (event) => {
+			initFbTeaser();
+		})
+		
+	</script>
+<link rel="preload" href="/typo3conf/ext/hf_screen/Resources/Public/Fonts/Roboto-Regular.woff" as="font" type="font/woff" crossorigin="anonymous">
+
+<link rel="preload" href="/typo3conf/ext/hf_screen/Resources/Public/Fonts/Roboto-Medium.woff" as="font" type="font/woff" crossorigin="anonymous">
+
+<link rel="preload" href="/typo3conf/ext/hf_screen/Resources/Public/Fonts/Roboto-Bold.woff" as="font" type="font/woff" crossorigin="anonymous">
+
+<link rel="preload" href="/typo3conf/ext/hf_screen/Resources/Public/Fonts/Roboto-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+<link rel="preload" href="/typo3conf/ext/hf_screen/Resources/Public/Fonts/Roboto-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+<link rel="preload" href="/typo3conf/ext/hf_screen/Resources/Public/Fonts/Roboto-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+<link rel="preload" href="/typo3conf/ext/hf_screen/Resources/Public/Fonts/fa-regular-400.woff" as="font" type="font/woff" crossorigin="anonymous">
+
+<link rel="preload" href="/typo3conf/ext/hf_screen/Resources/Public/Fonts/fa-solid-900.woff" as="font" type="font/woff" crossorigin="anonymous">
+
+<link rel="preload" href="/typo3conf/ext/hf_screen/Resources/Public/Fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+<link rel="preload" href="/typo3conf/ext/hf_screen/Resources/Public/Fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+
+<link rel="stylesheet" href="/typo3conf/ext/hf_screen/Resources/Public/Css/Print.min.css" media="print">
+
+<link href="" rel="alternate" type="application/rss+xml" title="HANSA-FLEX RSS-Feed" hreflang="de-BE">
+
+<link rel="stylesheet" href="/typo3temp/assets/vhs-assets-cs117-fonts-lbox.css">
+<link rel="stylesheet" href="/typo3conf/ext/hf_languages/Resources/Public/Contribute/iconfont/iconfont.css">
+<link rel="stylesheet" href="/typo3conf/ext/hf_languages/Resources/Public/Contribute/flag-icon-css/css/flag-icon.min.css">
+<link rel="stylesheet" href="/typo3temp/assets/vhs-assets-cssVisual.css">
+</head>
+<body class="HFPublic js-no lang-en-BE lang-dir-ltr layout-pagets__1 sub-layout- doktype-1 expand-search hover-highlight nav-fixed nav-min-on-scroll" lang="de" data-language-uid="0" data-page-uid="8773">
+
+
+	
+	
+	
+	
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<div class="navi-spacer-inline">&nbsp;</div>
+
+	
+	
+	
+
+	
+	
+			
+		
+	
+	
+
+	
+		
+	
+
+	
+	
+	<header class="se-header">
+		<div class="se-header-container">
+			<div class="logo">
+				<div class="container">
+					<div class="logo-nav"><a class="navi-main-minimizer" aria-hidden="true"><i class="fa fa-bars"></i><i class="fa fal fa-times"></i></a><a class="logo-link" href="/"><img class="logo-resource" title="HANSA-FLEX AG" alt="HANSA-FLEX Logo" src="/typo3conf/ext/hf_screen/Resources/Public/Images/Logos/hf-fh-logo.svg" width="226" height="30"></a></div>
+				</div>
+			</div>
+			
+			
+		<div class="navi-meta">
+			<div class="navi-meta-container">
+				<div class="navi-meta-frame container">
+					
+		<div class="navi-meta-service">
+			<span class="">
+				<a href="https://shop.hansa-flex.be/" target="_blank">Online-Shop</a>
+			</span>
+		</div>
+	
+					
+		
+	
+					
+		<div class="navi-countries">
+			<p class="box-title ce-headline-2 navi-meta-toggler" lang="en" aria-hidden="true"><i class="fa fas fa-globe-americas"></i><span class="text">Country and language</span><i class="fa fas fa-chevron-up"></i><i class="fa fas fa-chevron-down"></i><i class="fa fas fa-chevron-right"></i></p>
+			
+	
+			
+				
+					
+					
+					
+				
+				<nav class="tx-hflanguages-pi1-country-selector style-2">
+					<div class="tx-hflanguages-pi1-country-header container">
+						<div class="row">
+							<div class="col col-12">
+								<p class="ce-headline ce-headline-5">Select your country and language</p>
+								<div class="tx-hflanguages-pi1-country-list-closer" aria-hidden="true"><i class="fa fal fa-times"></i></div>
+							</div>
+						</div>
+					</div>
+					<div class="tx-hflanguages-pi1-country-list container">
+						<div class="row">
+							
+								<div class="col col-6 tx-hflanguages-pi1-country-territory territory-5 ACT" data-territory-uid="5"><div class="tx-hflanguages-pi1-country-territory-item"><p class="ce-headline ce-headline-5" lang="en"><a><span class="territory"><i class="c-icon c-icon-continent-europe icon-gb-150"></i></span><span class="title">Europe</span></a></p><a class="toggler" aria-hidden="true"><i class="fa far fa-chevron-right"></i></a><hr></div><div class="LV1 box"><p class="tx-hflanguages-pi1-country-territory-back" aria-hidden="true"><a class=" ce-headline ce-headline-5"><i class="fa far fa-chevron-left"></i><span>Europe</span></a></p><ul class="LV1"><li class="ACT"><a class="LINK" href="http://www.hansa-flex.be" data-toggle="tooltip" hreflang="en" target="_blank" title="Belgium"><span class="flag-icon flag-icon-be flag"></span><span class="cn" lang="en">Belgique</span></a></li><li class="NO"><a class="LINK" href="https://ba.hansa-flex.com" data-toggle="tooltip" hreflang="bs" target="_blank" title="Bosnia and Herzegovina"><span class="flag-icon flag-icon-ba flag"></span><span class="cn" lang="bs">BiH/БиХ</span></a></li><li class="NO"><a class="LINK" href="http://www.hansaflex.cz" data-toggle="tooltip" hreflang="cs" target="_blank" title="Czech Republic"><span class="flag-icon flag-icon-cz flag"></span><span class="cn" lang="cs">Česko</span></a></li><li class="NO"><a class="LINK" href="https://www.hansa-flex.com/" data-toggle="tooltip" hreflang="de" target="_blank" title="Germany"><span class="flag-icon flag-icon-de flag"></span><span class="cn" lang="de">Deutschland</span></a><ul class="languages"><li><a href="https://www.hansa-flex.com/" class="LINK" target="_blank" hreflang="de" data-toggle="tooltip" title="Deutsch - German">DE</a></li><li><a href="https://www.hansa-flex.com/en/" class="LINK" target="_blank" hreflang="en" data-toggle="tooltip" title="English">EN</a></li></ul></li><li class="NO"><a class="LINK" href="https://ee.hansa-flex.com" data-toggle="tooltip" hreflang="et" target="_blank" title="Estonia"><span class="flag-icon flag-icon-ee flag"></span><span class="cn" lang="et">Eesti</span></a></li><li class="NO"><a class="LINK" href="https://ie.hansa-flex.com" data-toggle="tooltip" hreflang="en" target="_blank" title="Ireland"><span class="flag-icon flag-icon-ie flag"></span><span class="cn" lang="en">Éire</span></a></li><li class="NO"><a class="LINK" href="https://es.hansa-flex.com" data-toggle="tooltip" hreflang="es" target="_blank" title="Spain"><span class="flag-icon flag-icon-es flag"></span><span class="cn" lang="es">España</span></a></li><li class="NO"><a class="LINK" href="https://fr.hansa-flex.com" data-toggle="tooltip" hreflang="fr" target="_blank" title="France"><span class="flag-icon flag-icon-fr flag"></span><span class="cn" lang="fr">France</span></a></li><li class="NO"><a class="LINK" href="https://hr.hansa-flex.com" data-toggle="tooltip" hreflang="hr" target="_blank" title="Croatia"><span class="flag-icon flag-icon-hr flag"></span><span class="cn" lang="hr">Hrvatska</span></a></li><li class="NO"><a class="LINK" href="https://it.hansa-flex.com" data-toggle="tooltip" hreflang="it" target="_blank" title="Italy"><span class="flag-icon flag-icon-it flag"></span><span class="cn" lang="it">Italia</span></a></li><li class="NO"><a class="LINK" href="http://www.hansa-flex.lv" data-toggle="tooltip" hreflang="lv" target="_blank" title="Latvia"><span class="flag-icon flag-icon-lv flag"></span><span class="cn" lang="lv">Latvija</span></a></li><li class="NO"><a class="LINK" href="http://www.hansa-flex.lt" data-toggle="tooltip" hreflang="lt" target="_blank" title="Lithuania"><span class="flag-icon flag-icon-lt flag"></span><span class="cn" lang="lt">Lietuva</span></a></li><li class="NO"><a class="LINK" href="https://lu.hansa-flex.com" data-toggle="tooltip" hreflang="lb" target="_blank" title="Luxembourg"><span class="flag-icon flag-icon-lu flag"></span><span class="cn" lang="lb">Luxemburg</span></a><ul class="languages"><li><a href="https://lu.hansa-flex.com" class="LINK" target="_blank" hreflang="lb" data-toggle="tooltip" title="Lëtzebuergesch - Luxembourgish">LB</a></li><li><a href="https://lu.hansa-flex.com" class="LINK" target="_blank" hreflang="de" data-toggle="tooltip" title="Deutsch - German">DE</a></li></ul></li><li class="NO"><a class="LINK" href="https://hu.hansa-flex.com" data-toggle="tooltip" hreflang="hu" target="_blank" title="Hungary"><span class="flag-icon flag-icon-hu flag"></span><span class="cn" lang="hu">Magyarország</span></a></li><li class="NO"><a class="LINK" href="https://nl.hansa-flex.com" data-toggle="tooltip" hreflang="nl" target="_blank" title="Netherlands"><span class="flag-icon flag-icon-nl flag"></span><span class="cn" lang="nl">Nederland</span></a></li><li class="NO"><a class="LINK" href="https://at.hansa-flex.com" data-toggle="tooltip" hreflang="de-AU" target="_blank" title="Austria"><span class="flag-icon flag-icon-at flag"></span><span class="cn" lang="de-AU">Österreich</span></a><ul class="languages"><li><a href="https://at.hansa-flex.com" class="LINK" target="_blank" hreflang="de-AU" data-toggle="tooltip" title="Deutsch (österr.) - German (austrian)">DE</a></li><li><a href="https://at.hansa-flex.com/en/" class="LINK" target="_blank" hreflang="en" data-toggle="tooltip" title="English">EN</a></li></ul></li><li class="NO"><a class="LINK" href="http://www.hansa-flex.com.pl" data-toggle="tooltip" hreflang="pl" target="_blank" title="Poland"><span class="flag-icon flag-icon-pl flag"></span><span class="cn" lang="pl">Polska</span></a></li><li class="NO"><a class="LINK" href="https://pt.hansa-flex.com" data-toggle="tooltip" hreflang="pt" target="_blank" title="Portugal"><span class="flag-icon flag-icon-pt flag"></span><span class="cn" lang="pt">Portugal</span></a><ul class="languages"><li><a href="https://pt.hansa-flex.com" class="LINK" target="_blank" hreflang="pt" data-toggle="tooltip" title="Português - Portuguese">PT</a></li><li><a href="https://pt.hansa-flex.com" class="LINK" target="_blank" hreflang="en" data-toggle="tooltip" title="English">EN</a></li></ul></li><li class="NO"><a class="LINK" href="http://www.hansa-flex.ro" data-toggle="tooltip" hreflang="ro" target="_blank" title="Romania"><span class="flag-icon flag-icon-ro flag"></span><span class="cn" lang="ro">România</span></a></li><li class="NO"><a class="LINK" href="https://ch.hansa-flex.com" data-toggle="tooltip" hreflang="de-CH" target="_blank" title="Switzerland"><span class="flag-icon flag-icon-ch flag"></span><span class="cn" lang="de-CH">Schweiz</span></a><ul class="languages"><li><a href="https://ch.hansa-flex.com" class="LINK" target="_blank" hreflang="de-CH" data-toggle="tooltip" title="Deutsch - German (swiss)">DE</a></li><li><a href="https://ch.hansa-flex.com" class="LINK" target="_blank" hreflang="fr-CH" data-toggle="tooltip" title="Français - French (swiss)">FR</a></li><li><a href="https://ch.hansa-flex.com" class="LINK" target="_blank" hreflang="it-CH" data-toggle="tooltip" title="Italiano - Italien (swiss)">IT</a></li></ul></li><li class="NO"><a class="LINK" href="https://si.hansa-flex.com" data-toggle="tooltip" hreflang="sl" target="_blank" title="Slovenia"><span class="flag-icon flag-icon-si flag"></span><span class="cn" lang="sl">Slovenija</span></a></li><li class="NO"><a class="LINK" href="https://sk.hansa-flex.com" data-toggle="tooltip" hreflang="sk" target="_blank" title="Slovakia"><span class="flag-icon flag-icon-sk flag"></span><span class="cn" lang="sk">Slovensko</span></a></li><li class="NO"><a class="LINK" href="https://rs.hansa-flex.com" data-toggle="tooltip" hreflang="sr" target="_blank" title="Serbia"><span class="flag-icon flag-icon-rs flag"></span><span class="cn" lang="sr">Srbija</span></a></li><li class="NO"><a class="LINK" href="https://uk.hansa-flex.com" data-toggle="tooltip" hreflang="en" target="_blank" title="United Kingdom"><span class="flag-icon flag-icon-gb flag"></span><span class="cn" lang="en">United Kingdom</span></a></li><li class="NO"><a class="LINK" href="http://www.hansa-flex-bg.com" data-toggle="tooltip" hreflang="bg" target="_blank" title="Bulgaria"><span class="flag-icon flag-icon-bg flag"></span><span class="cn" lang="bg">България</span></a></li><li class="NO"><a class="LINK" href="http://www.hansa-flex.com.ua" data-toggle="tooltip" hreflang="uk" target="_blank" title="Ukraine"><span class="flag-icon flag-icon-ua flag"></span><span class="cn" lang="uk">Україна</span></a></li></ul></div></div>
+							
+								<div class="col col-6 tx-hflanguages-pi1-country-territory territory-3000 SPC" data-territory-uid="3000"><div class="tx-hflanguages-pi1-country-territory-item"><p class="ce-headline ce-headline-5" lang="en"><a><span class="territory"><i class="c-icon c-icon-continent-asia icon-gb-3000"></i></span><span class="title">Asia &amp; Pacific</span></a></p><a class="toggler" aria-hidden="true"><i class="fa far fa-chevron-right"></i></a><hr></div><div class="LV1 box"><p class="tx-hflanguages-pi1-country-territory-back" aria-hidden="true"><a class=" ce-headline ce-headline-5"><i class="fa far fa-chevron-left"></i><span>Asia &amp; Pacific</span></a></p><ul class="LV1"><li class="NO"><a class="LINK" href="https://au.hansa-flex.com" data-toggle="tooltip" hreflang="en" target="_blank" title="Australia"><span class="flag-icon flag-icon-au flag"></span><span class="cn" lang="en">Australia</span></a></li><li class="NO"><a class="LINK" href="https://in.hansa-flex.com" data-toggle="tooltip" hreflang="en" target="_blank" title="India"><span class="flag-icon flag-icon-in flag"></span><span class="cn" lang="en">India</span></a></li><li class="NO"><a class="LINK" href="https://sg.hansa-flex.com" data-toggle="tooltip" hreflang="en" target="_blank" title="Singapore"><span class="flag-icon flag-icon-sg flag"></span><span class="cn" lang="en">Singapore</span></a></li><li class="NO"><a class="LINK" href="https://tr.hansa-flex.com" data-toggle="tooltip" hreflang="tr" target="_blank" title="Turkey"><span class="flag-icon flag-icon-tr flag"></span><span class="cn" lang="tr">Türkiye</span></a></li><li class="NO"><a class="LINK" href="https://kz.hansa-flex.com" data-toggle="tooltip" hreflang="ru" target="_blank" title="Kazakhstan"><span class="flag-icon flag-icon-kz flag"></span><span class="cn" lang="ru">Қазақстан /Казахстан</span></a></li><li class="NO"><a class="LINK" href="https://ge.hansa-flex.com" data-toggle="tooltip" hreflang="ka" target="_blank" title="Georgia"><span class="flag-icon flag-icon-ge flag"></span><span class="cn" lang="ka">საქართველო</span></a></li><li class="NO"><a class="LINK" href="https://ae.hansa-flex.com" data-toggle="tooltip" hreflang="ar" target="_blank" title="United Arab Emirates"><span class="flag-icon flag-icon-ae flag"></span><span class="cn" lang="ar">الإمارات العربيّة المتّحدة</span></a><ul class="languages"><li><a href="https://ae.hansa-flex.com" class="LINK" target="_blank" hreflang="ar" data-toggle="tooltip" title="العربية - Arabic">AR</a></li><li><a href="https://ae.hansa-flex.com" class="LINK" target="_blank" hreflang="en" data-toggle="tooltip" title="English">EN</a></li></ul></li><li class="NO"><a class="LINK" href="https://th.hansa-flex.com" data-toggle="tooltip" hreflang="th" target="_blank" title="Thailand"><span class="flag-icon flag-icon-th flag"></span><span class="cn" lang="th">ไทย</span></a></li><li class="NO"><a class="LINK" href="http://www.hansa-flex.com.cn" data-toggle="tooltip" hreflang="zh-CN" target="_blank" title="China"><span class="flag-icon flag-icon-cn flag"></span><span class="cn" lang="zh-CN">中华</span></a></li></ul></div></div>
+							
+								<div class="col col-6 tx-hflanguages-pi1-country-territory territory-18 SPC" data-territory-uid="18"><div class="tx-hflanguages-pi1-country-territory-item"><p class="ce-headline ce-headline-5" lang="en"><a><span class="territory"><i class="c-icon c-icon-continent-northamerica icon-gb-21"></i></span><span class="title">Northern America</span></a></p><a class="toggler" aria-hidden="true"><i class="fa far fa-chevron-right"></i></a><hr></div><div class="LV1 box"><p class="tx-hflanguages-pi1-country-territory-back" aria-hidden="true"><a class=" ce-headline ce-headline-5"><i class="fa far fa-chevron-left"></i><span>Northern America</span></a></p><ul class="LV1"><li class="NO"><a class="LINK" href="http://hansa-flex.ca" data-toggle="tooltip" hreflang="en" target="_blank" title="Canada"><span class="flag-icon flag-icon-ca flag"></span><span class="cn" lang="en">Canada</span></a></li><li class="NO"><a class="LINK" href="http://hansa-flex.us" data-toggle="tooltip" hreflang="en" target="_blank" title="United States"><span class="flag-icon flag-icon-us flag"></span><span class="cn" lang="en">United States</span></a></li></ul></div></div>
+							
+								<div class="col col-6 tx-hflanguages-pi1-country-territory territory-16 SPC" data-territory-uid="16"><div class="tx-hflanguages-pi1-country-territory-item"><p class="ce-headline ce-headline-5" lang="en"><a><span class="territory"><i class="c-icon c-icon-continent-southamerica icon-gb-5"></i></span><span class="title">South America</span></a></p><a class="toggler" aria-hidden="true"><i class="fa far fa-chevron-right"></i></a><hr></div><div class="LV1 box"><p class="tx-hflanguages-pi1-country-territory-back" aria-hidden="true"><a class=" ce-headline ce-headline-5"><i class="fa far fa-chevron-left"></i><span>South America</span></a></p><ul class="LV1"><li class="NO"><a class="LINK" href="http://hansaflexbrasil.com.br" data-toggle="tooltip" hreflang="pt-BR" target="_blank" title="Brazil"><span class="flag-icon flag-icon-br flag"></span><span class="cn" lang="pt-BR">Brasil</span></a></li><li class="NO"><a class="LINK" href="https://cl.hansa-flex.com" data-toggle="tooltip" hreflang="es" target="_blank" title="Chile"><span class="flag-icon flag-icon-cl flag"></span><span class="cn" lang="es">Chile</span></a></li></ul></div></div>
+							
+								<div class="col col-6 tx-hflanguages-pi1-country-territory territory-1 SPC LST" data-territory-uid="1"><div class="tx-hflanguages-pi1-country-territory-item"><p class="ce-headline ce-headline-5" lang="en"><a><span class="territory"><i class="c-icon c-icon-continent-africa icon-gb-2"></i></span><span class="title">Africa</span></a></p><a class="toggler" aria-hidden="true"><i class="fa far fa-chevron-right"></i></a><hr></div><div class="LV1 box"><p class="tx-hflanguages-pi1-country-territory-back" aria-hidden="true"><a class=" ce-headline ce-headline-5"><i class="fa far fa-chevron-left"></i><span>Africa</span></a></p><ul class="LV1"><li class="NO"><a class="LINK" href="https://za.hansa-flex.com" data-toggle="tooltip" hreflang="en" target="_blank" title="South Africa"><span class="flag-icon flag-icon-za flag"></span><span class="cn" lang="en">South Africa</span></a></li></ul></div></div>
+							
+							<div class="navi-country-highlight" aria-hidden="true"></div>
+							<div class="spc"></div>
+						</div>
+					</div>
+				</nav>
+			
+		
+
+
+			<a class="closer" title="close"><i class="fa fal fa-times"></i></a>
+		</div>
+	
+					
+		
+			<div class="navi-locations">
+				<p class="box-title ce-headline-2 navi-meta-toggler"><a href="/subsidiaries.html"><span class="text">Locations</span><i class="fa fas fa-chevron-up"></i><i class="fa fas fa-chevron-down"></i><i class="fa fas fa-chevron-right"></i></a></p>
+			</div>
+		
+	
+					<div class="navi-meta-service">
+	<p class="box-title navi-footer-toggler">Help and Contact<i class="fa fas fa-chevron-up"></i><i class="fa fas fa-chevron-down"></i><i class="fa fas fa-chevron-right"></i></p>
+	<nav>
+	
+		<ul><li class="FST">
+<a href="https://www.hansa-flex.be/contact.html" title="Contact" class="FST">Contact</a>
+</li>
+<li class="LST">
+<a href="https://www.hansa-flex.be/feedback.html" title="Feedback" class="LST">Feedback</a>
+</li></ul>
+
+	
+</nav>
+</div>
+				</div>
+			</div>
+		</div>
+	
+			
+	<nav class="navi-main">
+		<a class="navi-main-button" aria-hidden="true"><i class="fa far fa-bars"></i><i class="fa fal fa-times"></i></a>
+		<div class="navi-main-border-top"><span>&nbsp;</span></div>
+		<div class="navi-main-list">
+			
+				<ul class="LV1"><li class="SUB FST LV1" id="item-8954"><div class="navi-main-title"><a href="/company.html" class="navi-main-title-txt SUB FST">Company</a><a class="link-sub-toggler SUB" aria-hidden="true"><i class="fa far fa-chevron-right"></i><i class="fa far fa-chevron-down"></i></a></div><div class="navi-main-sub"><div class="navi-main-sub-frame"><div class="navi-main-desc"><p class="ce-headline ce-headline-2 title">Company</p><p class="abstract">As a diverse company, we have a lot to offer. Here you can get an overview of our history, our mission statement, references and much more...</p><a href="/company.html" class="PAGE btn btn-secondary">Discover this area</a></div><div class="LV2 bx"><div class="LV2-frame"><ul class="LV2"><li class="FST LV2" id="item-8677"><span class="link-box"><a href="/company.html" class="FST PAGE">Company profile</a></span></li><li class=" LV2" id="item-8683"><span class="link-box"><a href="/company/management.html" class=" PAGE">Management</a></span></li><li class=" LV2" id="item-8955"><span class="link-box"><a href="/company/history.html" class=" PAGE">History</a></span></li><li class=" LV2" id="item-8678"><span class="link-box"><a href="/company/annual_report.html" class=" PAGE">Annual Report</a></span></li><li class=" LV2" id="item-8679"><span class="link-box"><a href="/company/certification.html" class=" PAGE">Certification</a></span></li><li class=" LV2" id="item-8680"><span class="link-box"><a href="/company/references.html" class=" PAGE">References</a></span></li><li class=" LV2" id="item-8681"><span class="link-box"><a href="/company/mission_statement.html" class=" PAGE">Mission Statement</a></span></li><li class="LST LV2" id="item-8682"><span class="link-box"><a href="/company/group_of_companies.html" class="LST PAGE">Group of companies</a></span></li></ul></div></div><a class="navi-main-sub-closer" aria-hidden="true"><i class="fa far fa-times"></i></a></div></div></li><li class="SUB LV1" id="item-8673"><div class="navi-main-title"><a href="/services.html" class="navi-main-title-txt SUB">Services</a><a class="link-sub-toggler SUB" aria-hidden="true"><i class="fa far fa-chevron-right"></i><i class="fa far fa-chevron-down"></i></a></div><div class="navi-main-sub"><div class="navi-main-sub-frame"><div class="navi-main-desc"><p class="ce-headline ce-headline-2 title">Services</p><p class="abstract">From special designs to large-scale projects - we support you with customized services for all aspects of hydraulics. Let our experts advise you without obligation.</p><a href="/services.html" class="PAGE btn btn-secondary">Discover our Services</a></div><div class="LV2 bx"><div class="LV2-frame"><ul class="LV2"><li class="FST LV2" id="item-8685"><span class="link-box"><a href="/services/hydraulic_service.html" class="FST PAGE">Hydraulic service</a></span></li><li class=" LV2" id="item-8686"><span class="link-box"><a href="/fluidservice.html" class=" PAGE">Fluidservice</a></span></li><li class=" LV2" id="item-8687"><span class="link-box"><a href="/services/x_code.html" class=" PAGE"><span class="no-break">X-CODE</span></a></span></li><li class="SUB LV2" id="item-8688"><span class="link-box"><a href="/services/technical_information.html" class="SUB PAGE">Technical Information</a><a class="subToggler" aria-hidden="true"><i class="fa far fa-chevron-right"></i></a></span><div class="LV3 bx"><div class="bx-inner"><p class="navi-main-sub-back" aria-hidden="true"><a class="navi-main-sub-back-link BACK"><i class="fa far fa-chevron-left"></i><span>go back</span></a><a class="navi-main-sub-link PAGE" href="/services/technical_information.html"><span>Technical Information</span><i class="fa far fa-chevron-right"></i></a><a class="closer"><i class="fa fal fa-times"></i></a></p><ul class="LV3"><li class="FST LV3"><a href="/services/technical_information/good_to_know.html" class="FST PAGE">Good to know</a></li><li class=" LV3"><a href="/services/technical_information/hose_lines.html" class=" PAGE">Hose lines</a></li><li class=" LV3"><a href="/services/technical_information/industrie_hose_lines.html" class=" PAGE">Industrie hose lines</a></li><li class=" LV3"><a href="/services/technical_information/pipe_fittings.html" class=" PAGE">Pipe fittings</a></li><li class=" LV3"><a href="/services/technical_information/seals_and_sealing_equipment.html" class=" PAGE">Seals and Sealing Equipment</a></li><li class=" LV3"><a href="/services/technical_information/pneumatic.html" class=" PAGE">Pneumatic</a></li><li class=" LV3"><a href="/services/technical_information/ball_valves.html" class=" PAGE">Ball valves</a></li><li class=" LV3"><a href="/services/technical_information/sealants.html" class=" PAGE">Sealants</a></li><li class="LST LV3"><a href="/services/technical_information/dguv_rule_113_020.html" class="LST PAGE">DGUV Rule 113-020</a></li></ul></div></div></li><li class=" LV2" id="item-8689"><span class="link-box"><a href="/services/cylinder_repair.html" class=" PAGE">Cylinder repair</a></span></li><li class=" LV2" id="item-8690"><span class="link-box"><a href="/services/engineering_unit_manufacture.html" class=" PAGE">Engineering/<br>
+Unit Manufacture</a></span></li><li class=" LV2" id="item-8691"><span class="link-box"><a href="/services/hydraulics_workshop.html" class=" PAGE">Hydraulics workshop</a></span></li><li class=" LV2" id="item-8692"><span class="link-box"><a href="/services/training.html" class=" PAGE">Training</a></span></li><li class=" LV2" id="item-8693"><span class="link-box"><a href="/services/3d_models.html" class=" PAGE">3D-models</a></span></li><li class=" LV2" id="item-8694"><span class="link-box"><a href="/services/practical_manual.html" class=" PAGE">Practical manual</a></span></li><li class=" LV2" id="item-8695"><span class="link-box"><a href="/services/print_catalogue.html" class=" PAGE">Print catalogue</a></span></li><li class="LST LV2" id="item-8696"><span class="link-box"><a href="/services/pdf_catalogues.html" class="LST PAGE">PDF catalogues</a></span></li></ul></div></div><a class="navi-main-sub-closer" aria-hidden="true"><i class="fa far fa-times"></i></a></div></div></li><li class="SUB LV1" id="item-8674"><div class="navi-main-title"><a href="/products.html" class="navi-main-title-txt SUB">Products</a><a class="link-sub-toggler SUB" aria-hidden="true"><i class="fa far fa-chevron-right"></i><i class="fa far fa-chevron-down"></i></a></div><div class="navi-main-sub"><div class="navi-main-sub-frame"><div class="navi-main-desc"><p class="ce-headline ce-headline-2 title">Products</p><p class="abstract">The offers of <span class="ce-hansa-flex">HANSA-FLEX</span>: from hydraulic tools to tailor-made solutions for all industries as well as training and education of the employees of our customers.</p><a href="/products.html" class="PAGE btn btn-secondary">Discover this area</a></div><div class="LV2 bx"><div class="LV2-frame"><ul class="LV2"><li class="FST LV2" id="item-9670"><span class="link-box"><a href="/products/pneumatics.html" class="FST PAGE">Pneumatics</a></span></li><li class=" LV2" id="item-8697"><span class="link-box"><a href="/products/hydraulic_hoses.html" class=" PAGE">Hydraulic hoses</a></span></li><li class=" LV2" id="item-8698"><span class="link-box"><a href="/products/metal_hoses.html" class=" PAGE">Metal hoses</a></span></li><li class=" LV2" id="item-8699"><span class="link-box"><a href="/products/ptfe_hoses.html" class=" PAGE">PTFE hoses</a></span></li><li class=" LV2" id="item-8700"><span class="link-box"><a href="/products/moulded_hoses.html" class=" PAGE">Moulded hoses</a></span></li><li class=" LV2" id="item-8701"><span class="link-box"><a href="/products/offshore_industrial_hoses.html" class=" PAGE">Offshore industrial hoses</a></span></li><li class=" LV2" id="item-8702"><span class="link-box"><a href="/products/industrial_hoses.html" class=" PAGE">Industrial hoses</a></span></li><li class=" LV2" id="item-8703"><span class="link-box"><a href="/products/expansion_joint.html" class=" PAGE">Expansion joint</a></span></li><li class=" LV2" id="item-8704"><span class="link-box"><a href="/products/bending_pipes.html" class=" PAGE">Bending pipes</a></span></li><li class=" LV2" id="item-8705"><span class="link-box"><a href="/products/special_pipes_and_fittings.html" class=" PAGE">Special pipes <br>
+and fittings</a></span></li><li class=" LV2" id="item-8706"><span class="link-box"><a href="/products/hydraulic_components.html" class=" PAGE">Hydraulic components</a></span></li><li class=" LV2" id="item-9674"><span class="link-box"><a href="/products/sealing_technology.html" class=" PAGE">Sealing technology</a></span></li><li class=" LV2" id="item-8708"><span class="link-box"><a href="/products/filtration.html" class=" PAGE">Filtration</a></span></li><li class="LST LV2" id="item-8709"><span class="link-box"><a href="/products/air_conditioning.html" class="LST PAGE">Air Conditioning</a></span></li></ul></div></div><a class="navi-main-sub-closer" aria-hidden="true"><i class="fa far fa-times"></i></a></div></div></li><li class="SUB LV1" id="item-8675"><div class="navi-main-title"><a href="/communication.html" class="navi-main-title-txt SUB">Communication</a><a class="link-sub-toggler SUB" aria-hidden="true"><i class="fa far fa-chevron-right"></i><i class="fa far fa-chevron-down"></i></a></div><div class="navi-main-sub"><div class="navi-main-sub-frame"><div class="navi-main-desc"><p class="ce-headline ce-headline-2 title">Communication</p><p class="abstract"><span class="ce-hansa-flex">HANSA-FLEX</span> Trade Shows, News and much more.</p><a href="/communication.html" class="PAGE btn btn-secondary">Discover this area</a></div><div class="LV2 bx"><div class="LV2-frame"><ul class="LV2"><li class="SUB FST LV2" id="item-8777"><span class="link-box"><a href="/communication/news.html" class="SUB FST PAGE">News</a><a class="subToggler" aria-hidden="true"><i class="fa far fa-chevron-right"></i></a></span><div class="LV3 bx"><div class="bx-inner"><p class="navi-main-sub-back" aria-hidden="true"><a class="navi-main-sub-back-link BACK"><i class="fa far fa-chevron-left"></i><span>go back</span></a><a class="navi-main-sub-link PAGE" href="/communication/news.html"><span>News</span><i class="fa far fa-chevron-right"></i></a><a class="closer"><i class="fa fal fa-times"></i></a></p><ul class="LV3"><li class=" FST LV3"><a href="/communication/news/2021.html" class=" FST PAGE">2021</a></li><li class=" LV3"><a href="/communication/news/2020.html" class=" PAGE">2020</a></li><li class=" LV3"><a href="/communication/news/2019.html" class=" PAGE">2019</a></li><li class=" LV3"><a href="/communication/news/2018.html" class=" PAGE">2018</a></li><li class="LST LV3"><a href="/communication/news/more_news.html" class="LST PAGE">More news</a></li></ul></div></div></li><li class=" LV2" id="item-8710"><span class="link-box"><a href="/communication/fairs.html" class=" PAGE">Fairs</a></span></li><li class="SUB LV2" id="item-8711"><span class="link-box"><a href="/communication/hydraulikpresse.html" class="SUB PAGE">Hydraulikpresse</a><a class="subToggler" aria-hidden="true"><i class="fa far fa-chevron-right"></i></a></span><div class="LV3 bx"><div class="bx-inner"><p class="navi-main-sub-back" aria-hidden="true"><a class="navi-main-sub-back-link BACK"><i class="fa far fa-chevron-left"></i><span>go back</span></a><a class="navi-main-sub-link PAGE" href="/communication/hydraulikpresse.html"><span>Hydraulikpresse</span><i class="fa far fa-chevron-right"></i></a><a class="closer"><i class="fa fal fa-times"></i></a></p><ul class="LV3"><li class="FST LV3"><a href="/communication/hydraulikpresse/2021.html" class="FST PAGE">2021</a></li><li class=" LV3"><a href="/communication/hydraulikpresse/2020.html" class=" PAGE">2020</a></li><li class=" LV3"><a href="/communication/hydraulikpresse/2019.html" class=" PAGE">2019</a></li><li class=" LV3"><a href="/communication/hydraulikpresse/2018.html" class=" PAGE">2018</a></li><li class=" LV3"><a href="/communication/hydraulikpresse/2017.html" class=" PAGE">2017</a></li><li class=" LV3"><a href="/communication/hydraulikpresse/2016_2013.html" class=" PAGE">2016 - 2013</a></li><li class="LST LV3"><a href="/communication/hydraulikpresse/subscription.html" class="LST PAGE">Subscription</a></li></ul></div></div></li><li class="SUB LV2" id="item-8712"><span class="link-box"><a href="/communication/sponsoring.html" class="SUB PAGE">Sponsoring</a><a class="subToggler" aria-hidden="true"><i class="fa far fa-chevron-right"></i></a></span><div class="LV3 bx"><div class="bx-inner"><p class="navi-main-sub-back" aria-hidden="true"><a class="navi-main-sub-back-link BACK"><i class="fa far fa-chevron-left"></i><span>go back</span></a><a class="navi-main-sub-link PAGE" href="/communication/sponsoring.html"><span>Sponsoring</span><i class="fa far fa-chevron-right"></i></a><a class="closer"><i class="fa fal fa-times"></i></a></p><ul class="LV3"><li class=" FST LST LV3"><a href="/communication/sponsoring/2020.html" class=" FST LST PAGE">2020</a></li></ul></div></div></li><li class="LST LV2" id="item-8713"><span class="link-box"><a href="/communication/eventmobile.html" class="LST PAGE">Eventmobile</a></span></li></ul></div></div><a class="navi-main-sub-closer" aria-hidden="true"><i class="fa far fa-times"></i></a></div></div></li><li class="SUB LST LV1" id="item-8676"><div class="navi-main-title"><a href="/jobs/hansa_flex_as_an_employer.html" class="navi-main-title-txt SUB LST">Jobs</a><a class="link-sub-toggler SUB" aria-hidden="true"><i class="fa far fa-chevron-right"></i><i class="fa far fa-chevron-down"></i></a></div><div class="navi-main-sub"><div class="navi-main-sub-frame"><div class="navi-main-desc"><p class="ce-headline ce-headline-2 title">Jobs</p><p class="abstract">Your Start at <span class="ce-hansa-flex">HANSA-FLEX</span></p><a href="/jobs/hansa_flex_as_an_employer.html" class="PAGE btn btn-secondary">Discover this area</a></div><div class="LV2 bx"><div class="LV2-frame"><ul class="LV2"><li class="FST LV2" id="item-8714"><span class="link-box"><a href="/jobs/hansa_flex_as_an_employer.html" class="FST PAGE"><span class="ce-hansa-flex">HANSA-FLEX</span> <br>
+as an employer</a></span></li><li class=" LV2" id="item-8715"><span class="link-box"><a href="/jobs/jobs.html" class=" PAGE">Jobs</a></span></li><li class="LST LV2" id="item-8716"><span class="link-box"><a href="/jobs/education_training.html" class="LST PAGE">Education &amp; Training</a></span></li></ul></div></div><a class="navi-main-sub-closer" aria-hidden="true"><i class="fa far fa-times"></i></a></div></div></li><li class="EXT SUB country" aria-hidden="true"><span class="navi-main-title"><a class="navi-main-title-txt EXT"><i class="fa fas fa-globe-americas"></i> Select your country</a><span class="link-sub-toggler SUB"><i class="fa far fa-chevron-right"></i><i class="fa far fa-chevron-down"></i></span></span></li><li class="EXT locations"><span class="navi-main-title"><a class="navi-main-title-txt EXT" href="/subsidiaries.html"><i class="fa far fa-map-marker-alt"></i> Locations</a><span class="link-sub-toggler"><i class="fa far fa-chevron-right"></i><i class="fa far fa-chevron-down"></i></span></span></li><li class="EXT SUB service"><span class="navi-main-title"><a class="navi-main-title-txt EXT"><i class="fa far fa-user"></i> Help and Contact</a><a class="link-sub-toggler SUB" aria-hidden="true"><i class="fa far fa-chevron-right"></i><i class="fa far fa-chevron-down"></i></a></span><div class="navi-main-sub"><ul class="LV2"><li class="FST"><a href="https://www.hansa-flex.be/contact.html" title="Contact" class="FST">Contact</a></li><li class="LST"><a href="https://www.hansa-flex.be/feedback.html" title="Feedback" class="LST">Feedback</a></li></ul></div></li></ul>
+				<div class="navi-highlight" aria-hidden="true"></div>
+			
+		</div>
+		<div class="navi-main-border-bottom"><span>&nbsp;</span></div>
+		<a class="navi-main-closer" aria-hidden="true"><i class="fa far fa-times"></i></a>
+	</nav>
+
+		</div>
+		<div class="navi-expander"><a><span><i></i></span></a></div>
+		<div class="se-header-bottom"><span>&nbsp;</span></div>
+	</header>
+
+	<div class="page">
+		
+	
+	
+
+		
+				<!--TYPO3SEARCH_begin-->
+				<main>
+					
+	
+	
+		
+		
+		
+			
+					
+							
+						
+				
+			
+		
+			
+					
+							
+								
+							
+						
+				
+			
+				
+			
+		
+			
+			
+		
+		
+				
+				
+					
+						
+							
+							
+									
+										
+											
+	
+
+	
+		
+		
+		
+		
+			
+			
+			
+			
+			
+		
+	
+	
+	
+
+	<div class="se-visual">
+		
+			<div class="se-visual-bg"><span style="background-image:url(https://www.hansa-flex.be/fileadmin/images/Head/Startseite.jpg);background-size:cover;max-width:1280px;max-height:346px;" data-bg-width="1280" data-bg-height="346"><img src="/fileadmin/images/Head/Startseite.jpg" width="983" height="149" alt=""></span></div>
+		
+		<div class="container">
+			<div class="row se-visual-content">
+				<div class="col col-12 col-lg-6">
+					<div class="se-visual-spacer"><img src="/clear.gif" width="1" height="346" alt=""></div>
+					<div class="gbox">
+						
+						
+								
+										
+										
+											<p class="ce-headline ce-headline-1">404</p>
+										
+									
+							
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+										
+									
+								
+							
+						
+					
+				
+			
+	
+
+					<div class="se-content">
+						
+    
+
+						
+
+
+<div id="c71744" class="frame frame-default frame-type-text frame-layout-0 "><div class="container"><div class="row"><div class="col"><h2 class="ce-headline ce-headline-1  ">
+								Error 404
+							</h2><p>Page not found.</p><p>&nbsp;</p><p><a href="https://www.hansa-flex.com/?id=1" target="_blank" class="ce-link-3">back</a> | <a href="https://www.hansa-flex.at/kommunikation/news/2020/februar/fachtagung_abbruch.html" class="ce-link-2">go to homepage</a></p></div></div></div></div>
+
+
+					</div>
+				</main>
+				<!--TYPO3SEARCH_end-->
+			
+		
+	<footer class="se-footer">
+		<div class="container">
+			<div class="row">
+				
+						<div class="col-12 col-md-12 col-lg-5 box box-contact">
+							
+	<div class="box-frame">
+		<p class="box-title">Do you have any questions?</p>
+		<p><a class="ce-link-phone" href="tel:">+32 9 2823615</a></p>
+		<p><a class="ce-link-location" href="/subsidiaries.html">Industriepark-Drongen 12, 9031 Gent-Drongen</a></p>
+		<p><a class="ce-link-email" href="javascript:linkTo_UnCryptMailto('hvdgoj5bziVcvinv8agzs9wz');">gen<i class="fa far fa-at"></i>hansa-flex<i class="csc-icon-dtpt"></i>be</a></p>
+		
+			<p><span class="ce-hansa-flex">HANSA-FLEX</span> Hydraulics nv – BE 0454 891 101 – RPR Gent</p>
+		
+	</div>
+
+						</div>
+						
+								<div class="ce-line ce-line-md col-12 ce-line-box-navi"><span> </span></div>
+								<div class="col col-lg-7 box-navi">
+									
+	<div class="row">
+		
+	
+		
+		
+		
+			
+				<div class="col-12 col-md-auto col-lg-auto box box-cats navi-cats">
+					<div class="box-frame">
+						<p class="box-title navi-footer-toggler">About <span class="ce-hansa-flex">HANSA-FLEX</span><i class="fa fas fa-chevron-up"></i><i class="fa fas fa-chevron-down"></i><i class="fa fas fa-chevron-right"></i></p>
+						
+
+
+<div id="c71747" class="eq-dis frame frame-blank-frame frame-type-menu_pages frame-layout-0"><ul><li><a href="/company.html" class="NO" title="Company"><span>Company</span></a></li><li><a href="/communication.html" class="NO" title="Communication"><span>Communication</span></a></li><li><a href="/jobs/hansa_flex_as_an_employer.html" class="NO" title="Jobs"><span>Jobs</span></a></li><li><a href="/company/certification.html" class="NO" title="Certification"><span>Certification</span></a></li></ul></div>
+
+
+					</div>
+				</div>
+			
+				<div class="col-12 col-md-auto col-lg-auto box box-cats navi-cats">
+					<div class="box-frame">
+						<p class="box-title navi-footer-toggler">Top Categories<i class="fa fas fa-chevron-up"></i><i class="fa fas fa-chevron-down"></i><i class="fa fas fa-chevron-right"></i></p>
+						
+
+
+<div id="c71748" class="eq-dis frame frame-blank-frame frame-type-menu_pages frame-layout-0"><ul><li><a href="/services.html" class="NO" title="Services"><span>Services</span></a></li><li><a href="/products.html" class="NO" title="Products"><span>Products</span></a></li></ul></div>
+
+
+					</div>
+				</div>
+			
+		
+	
+
+		<div class="col-12 col-md-auto col-lg-auto box box-service navi-service">
+			<div class="box-frame">
+				
+	<p class="box-title navi-footer-toggler">Help and Contact<i class="fa fas fa-chevron-up"></i><i class="fa fas fa-chevron-down"></i><i class="fa fas fa-chevron-right"></i></p>
+	<nav>
+	
+		<ul><li class="FST">
+<a href="https://www.hansa-flex.be/contact.html" title="Contact" class="FST">Contact</a>
+</li>
+<li class="LST">
+<a href="https://www.hansa-flex.be/feedback.html" title="Feedback" class="LST">Feedback</a>
+</li></ul>
+
+	
+</nav>
+
+			</div>
+		</div>
+	</div>
+
+								</div>
+							
+						<div class="ce-line ce-line-md col-12"><span> </span></div>
+						
+								<div class="col col-12 col-md-12 col-lg-auto box box-sharing">
+	<aside class="rw">
+	<div class="box-frame">
+		<div class="box-col box-title"><strong>Follow us</strong></div>
+		<div class="box-col text-right"><a href="https://www.facebook.com/hansaflexag/" target="_blank" title="HANSA-FLEX at Facebook." data-toggle="tooltip"><i class="fab fa-facebook"></i></a><a href="https://www.xing.com/companies/hansa-flexag" target="_blank" title="HANSA-FLEX at XING." data-toggle="tooltip"><i class="fab fa-xing"></i></a><a href="https://www.kununu.com/de/hansa-flex" target="_blank" title="HANSA-FLEX at Kununu." data-toggle="tooltip"><i class="hf-icon-kununu"><img alt="Kununu" src="/typo3conf/ext/hf_screen/Resources/Public/Images/Logos/kununuicon-01.svg" width="99" height="99"></i></a><a href="https://www.youtube.com/channel/UCxEVYG0w2OgkYzkLDiWIoOA" target="_blank" title="HANSA-FLEX at YouTube." data-toggle="tooltip"><i class="fab fa-youtube"></i></a><a href="https://de.linkedin.com/company/hansa-flex-ag" target="_blank" title="HANSA-FLEX at LinkedIn." data-toggle="tooltip"><i class="fab fa-linkedin"></i></a></div>
+		<div class="clearfix"> </div>
+	</div>
+	</aside>
+</div>
+								<div class="ce-line ce-line-2 col-12"> </div>
+								<div class="col col-12 col-md-12 col-lg-auto col-xs-6 box box-bottom">
+	<nav><ul><li class="FST">
+<a href="https://www.hansa-flex.be/imprint.html" title="Imprint" class="FST">Imprint</a>
+</li>
+<li>
+<a href="https://www.hansa-flex.be/terms_and_conditions.html" title="Terms and Conditions">Terms and Conditions</a>
+</li>
+<li>
+<a href="https://www.hansa-flex.be/terms_of_purchase.html" title="Terms of Purchase">Terms of Purchase</a>
+</li>
+<li class="LST">
+<a href="https://www.hansa-flex.be/data_privacyinformation.html" title="Data privacy
+information" class="LST">Data privacy
+information</a>
+</li></ul>
+		<nsd-cookie-banner logo="/typo3conf/ext/hf_screen/Resources/Public/Images/Logos/hf-fh-logo.svg" editable privacy-content-path="/data_privacyinformation.html?type=1593432901" cookie-config="/typo3conf/ext/hf_base/Resources/Public/Cookie/cookie-data.json" lang="en" inline-styles="
+--spacing-tiny: 4px;
+--spacing-small: 8px;
+--spacing-base: 16px;
+--spacing-large: 32px;
+text-align: left;
+line-height: 1.5;
+--cookie-banner-width: 500px;
+--cookie-banner-width-large-screen: 700px;
+--cookie-banner-font-size: 16px;
+--cookie-banner-headline-font-size: 24px;
+--cookie-banner-headline-line-height: 36px;
+--cookie-banner-body-spacing-bottom: 32px;
+--color-primary: #30557D;
+--cookie-banner-checkbox-border-radius: 0;
+--cookie-banner-checkbox-border-color: #CCCCCC;
+--cookie-banner-checkbox-background-color: transparent;
+--cookie-banner-checkbox-background-color-checked: #32cd32;
+--cookie-banner-checkbox-background-color-disable: #DDDDDD;
+--cookie-banner-checkbox-icon-size: 16px;
+--cookie-banner-checkbox-icon-color: #7DBF13;
+--cookie-banner-text-color: #30557D;
+--cookie-banner-button-primary-text-color: #30557D;
+--cookie-banner-button-primary-background-color: #FFFFFF;
+--cookie-banner-button-primary-border-color:#30557D;
+--cookie-banner-button-secondary-text-color: #FFFFFF;
+--cookie-banner-button-secondary-background-color: #E8002E;
+--cookie-banner-button-secondary-border-color: #E8002E;
+--cookie-banner-button-text-transform: none;
+--cookie-banner-button-border-radius: 3px;
+--cookie-banner-button-border-width: 1px;
+--cookie-banner-button-spacing-vertical: 24px;
+--cookie-banner-button-spacing-horizontal: 32px;
+--cookie-banner-details-button-font-weight: normal;"></nsd-cookie-banner>
+	</nav>
+</div>
+								<div class="col col-12 col-md-12 col-lg-auto box-top">
+	<p><a href="#" data-toggle="tooltip">to top&nbsp;&nbsp;&nbsp;<i class="fa fa-chevron-up"></i></a></p>
+</div>
+							
+					
+			</div>
+		</div>
+	</footer>
+
+		
+
+
+	</div>
+	
+	<div class="se-sidebar">
+		
+		<div class="se-top-link">
+			<div class="item">
+				<a href="#"><i class="fa fa-chevron-up"></i>to top</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="se-footer-spacer"></div>
+<script src="https://unpkg.com/vue@2.6.14/dist/vue.min.js" type="text/javascript"></script>
+<script src="/typo3temp/assets/js/e1f314a320.js" type="text/javascript"></script>
+
+
+<script type="text/javascript" src="/typo3temp/assets/vhs-assets-js117.js"></script>
+<script type="text/javascript" src="/typo3temp/assets/vhs-assets-cookieapp.js"></script>
+</body>
+
+
+
+
+
+
+
+
+<!-- Cached page generated 31-03-25 00:21. Expires 01-04-25 00:00 -->
+
+
+
+
+
+</html>
+
+<!-- Parsetime: 0ms -->
