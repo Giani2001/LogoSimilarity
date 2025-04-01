@@ -158,7 +158,7 @@ if __name__ == "__main__":
     #    # print(f"\n[→] Procesăm {idx}/{total}: {domain}")
 
     #     if os.path.exists(image_path):
-    #       #  print(f"[⏭️] Logo deja salvat pentru {domain}, sar peste.")
+    #       #  print(f" Logo deja salvat pentru {domain}, sar peste.")
     #         continue
 
 
@@ -166,11 +166,11 @@ if __name__ == "__main__":
     hashes = generate_hashes_from_folder("logos")
     print(f"[i] Generate {len(hashes)} hash codes.")
 
-   ## print("\n[🔗] Construim graful de similaritate între logo-uri...")
+    # print("\n Construim graful de similaritate între logo-uri...")
     graph = build_similarity_graph(hashes, threshold=5)
     print(f"[i] Number of nodes in graph : {len(graph.nodes)}")
     print(f"[i] Number of connections (similarities): {len(graph.edges)}")
 
-    print("\n[🔍] Groups of logo similarities:")
+    print("\n Groups of logo similarities:")
     groups = extract_logo_groups(graph)
     print(f"Total Groups: {len(groups)}")
