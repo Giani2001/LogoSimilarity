@@ -16,3 +16,11 @@ We convert each image into a perceptual**hash** (phash), which captures the visu
 ### 6. Building the similarity graph and grouping websites
 We construct a graph where each node is a website and edges connect logos that are visually similar (based on hash distance). The connected components in this graph form clusters of sites with similar branding.
 
+##Technologies and libraries
+- **Python 3**  
+- **Selenium (scraping )**  
+- **BeautifulSoup (parsing HTML)**  
+- **Requests (download images)**  
+- **Pillow + ImageHash (generate hash)**  
+- **NetworkX (graph)**  
+- **Parquet + pandas (Data processing)**  
