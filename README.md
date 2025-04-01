@@ -14,7 +14,7 @@ Once the logo URL is extracted, we download and save it locally as a **.png** fi
 ### 5. Generating visual hashes for logos
 We convert each image into a perceptual**hash** (phash), which captures the visual structure of the image in a numeric form. This allows us to compute the **Hamming distance** between two logos and determine how visually similar they are.
 ### 6. Building the similarity graph and grouping websites
-We construct a graph where each node is a website and edges connect logos that are visually similar (based on hash distance). The connected components in this graph form clusters of sites with similar branding.
+We create a graph where each node is a website and edges connect logos that are visually similar (based on hash distance). The connected components in this graph form clusters of sites with similar branding.
 
 ##Technologies and libraries
 - **Python 3**  
