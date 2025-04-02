@@ -8,7 +8,11 @@ We transform simple domain names into valid web URLs, e.g., **domain.com** → *
 ### 2. Reading domains from input files
 The input domains are extracted from a **Parquet** file. We ensure uniqueness by removing duplicate entries.
 ### 3. Extracting the logo URL
-In this step, we use **Selenium** for web scraping to extract the logo. Many websites load their logos dynamically via JavaScript, especially when using **SVG** or modern layouts. Using **Selenium** allows us to emulate a real browser session, ensuring accurate extraction. We also search for typical logo indicators such as **<img>**, **meta[property='og:image']**, and **favicon**.
+In this step, we use Selenium for automated browser interaction to extract the logo image from each webpage. Many modern websites load their content asynchronously using JavaScript, which makes traditional HTML parsers like **requests + BeautifulSoup** insufficient. By using Selenium, we emulate a real browser session that fully renders JavaScript content, ensuring access to dynamically loaded logos, such as inline SVGs or lazy-loaded **<img>** elements.
+Once the page is rendered, we programmatically inspect the DOM for common logo patterns. These include:
+- **<img>** tags that contain the word **logo** in their **alt, class, or src** attributes   
+- **<meta property='og:image'>** tags which often point to branding assets  
+- **<link rel='icon'>** or similar **favicon** references   
 ### 4. Downloading and saving the logo image
 Once the logo URL is extracted, we download and save it locally as a **.png** file in the **logos/** directory.
 ### 5. Generating visual hashes for logos
